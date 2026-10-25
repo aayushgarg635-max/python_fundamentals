@@ -39,6 +39,8 @@ print("False and False is", False and False)
 
 g = 5!=9
 f = 7==7
+print(g)
+print(h)
 
 # JO FALSE KO TRUE AUR TRUE KO FALSE BANA DE USSE NOT OPERATOR KEHTE HAI
 
