@@ -37,9 +37,9 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - [x] ch-08 Practice set
 - [x] project 1 - snake water gun game
 - [x] ch-09 Concepts
-- [ ] ch-09 Practice set
+- [x] ch-09 Practice set
 - [ ] project 2 - calculator
-- [ ] ch-10 Concepts
+- [x] ch-10 Concepts
 - [ ] ch-10 Practice set
 - [ ] ch-11 Concepts
 - [ ] ch-11 Practice set
