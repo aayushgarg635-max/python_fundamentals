@@ -38,7 +38,7 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - [x] project 1 - snake water gun game
 - [x] ch-09 Concepts
 - [x] ch-09 Practice set
-- [ ] project 2 - calculator
+- [x] project 2 - basic calculator
 - [x] ch-10 Concepts
 - [x] ch-10 Practice set
 - [ ] ch-11 Concepts
@@ -57,7 +57,8 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - Regular commits on github
 - Focusing on logic building
 - Revising and rebuilding concepts daily
-- Currently not using any AI majorly  to build strong core concepts in logicbuilding and programming
+- Currently not using any AI majorly  to build strong core concepts in logic building and programming just using it sometimes for debugging and hints in projects and problems
+- mini projects listed will be in another repos
 # Mini projects i will be building with alignment with this course :
 - snake water gun game
 - Perfect guess
