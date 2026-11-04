@@ -17,7 +17,7 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - Chapter-11 Inheritance in OOPS
 - Chapter-12 Advanced python - 1
 - Chapter-13 Advanced python - 2
-- projects = game,guess,calculator,reportcard,pdf merger etc.
+- projects = game,guess,calculator,reportcard,pdf merger,jarvis chatbot, jarvis etc.
 - Quick Quizzes - These files contains a quick revision of important points and concepts and memorisation of small bugs to avoid
 ## 🚀 Progress
 - [x] Ch-01 Concepts
