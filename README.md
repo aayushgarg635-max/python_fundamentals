@@ -1,7 +1,7 @@
 
 # 🐍 MY PYTHON COMPLETE COURSE - FUNDAMENTALS
 
-This repository is a record of my Python learning journey. Each chapter's concepts and practice sets or revision files and quick quizzes will be added separately as i learn them and increase my level gradualy
+This repository is a record of my Python learning journey. Each chapter's concepts and practice sets or revision files and quick quizzes will be added separately as i learn them and increase my level gradually
 
 ## 📁 Structure
 - Chapter-01 - Basics, pip, modules
