@@ -43,6 +43,7 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - [x] ch-10 Concepts
 - [x] ch-10 Practice set
 - [x] project 3 - student report card
+- [x] project 4 - mini quiz game
 - [x] ch-11 Concepts
 - [ ] ch-11 Practice set
 - [ ] ch-12 Concepts
