@@ -18,7 +18,7 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - Chapter-12 Advanced python - 1
 - Chapter-13 Advanced python - 2
 - projects = game,guess,calculator,reportcard,pminiquiz,pdf merger,jarvis , AI chatbot, jarvis, facial recognisation etc.
-- Quick Quizzes - These files contains a quick revision of important points and concepts and memorisation of small bugs to avoid
+- Quick Quizzes - These files contains a quick revision of important points and concepts and memorisation of small bugs to avoid during building complex and intermediate level programs
 ## 🚀 Progress
 - [x] Ch-01 Concepts
 - [x] Ch-01 Practice Set
