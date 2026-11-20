@@ -68,11 +68,12 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - Calculator
 - Mini quiz
 - student report card
-- TO DO app
+- TO DO application
 - Robo speaker
 - PDF merger
 - Jarvis chatbot
-- AI auto reply chatbot
+- AI auto reply
+- AI chatbot
 - Facial recognisation etc.
 - and other intermediate projects as i will raise my level gradualy
 
