@@ -68,6 +68,7 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - Calculator
 - Mini quiz
 - student report card
+- basic and advanced atm
 - TO DO application
 - Robo speaker
 - PDF merger
