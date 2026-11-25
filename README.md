@@ -1,5 +1,5 @@
 
-# 🐍 MY PYTHON COMPLETE COURSE - FUNDAMENTALS
+# 🐍 MY PYTHON COMPLETE COURSE - FUNDAMENTALS $ MINI PROJECTS
 
 This repository is a record of my Python learning journey. Each chapter's concepts and practice sets or revision files and quick quizzes will be added separately as i learn them and increase my level gradually in programing in python then will learn c too for better memory understanding and then web development skills in future
 
